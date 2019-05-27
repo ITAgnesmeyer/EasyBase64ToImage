@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Converts a Base64 string to an Image object and vice versa</Description>
+    <Copyright>Copyright (c) 2019 Dipl.-Ing.(FH) Guido Agnesmeyer</Copyright>
+    <PackageLicenseUrl>MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ITAgnesmeyer/EasyBase64ToImage</PackageProjectUrl>
+    <PackageTags>base64, image , converter</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
